@@ -1,0 +1,4 @@
+Alice: Welcome everyone. Today's goal is to finalize Q3 roadmap.
+Bob: Key risks are vendor delay and limited QA capacity.
+Carol: Decision: Ship payments revamp in two phases.
+Alice: Action items: Bob to confirm vendor ETA by Friday. Carol to draft comms.
